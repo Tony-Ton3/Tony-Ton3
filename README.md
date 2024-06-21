@@ -1,16 +1,14 @@
 ## 💫 About Me :
 Hey there 👋
 
-This is the place where I make and break things.
-
-- 👋 Hi, I’m @Tony Ferriera
-- 👀 I’m interested in web tech and servers
+- 👋 Hi, I’m @tony
+- 👀 I’m interested in the Internet of things
 - 🌱 I’m currently learning Full Stack Development 
 - 💞️ I’m looking to collaborate on building something cool and open-source
 - 📫 How to reach me: tonyfier11@gmail.com
 
 ### Various Links:
-🌐 [My Personal Page](coming soon) &nbsp; &nbsp; &nbsp;
+🌐 [My Personal Page](in progress) &nbsp; &nbsp; &nbsp;
 📎 [LinkedIn Profile](https://www.linkedin.com/in/tony-ferriera/) &nbsp; &nbsp; &nbsp;
 ✉️ [Email Address](mailto:tonyfier11@gmail.com)
 
